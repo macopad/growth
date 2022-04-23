@@ -9,6 +9,8 @@ import (
  2022.04.23 17:26:22
  */
 func main() {
-	log.Println("ke.com growth star")
+	log.Println("*** growth start ***")
+	
+
 }
 
